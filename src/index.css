@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  background-image: linear-gradient(to right, #cfcfcf);
+  color: white; /* Optional: To ensure text is readable */
+  font-family: poppins; /* Optional: Add a font for styling */
+
+}
